@@ -1,3 +1,5 @@
 PROJECT STOAT
+by Team Sea Slug
 
-Blah blah let's just see if I did this right.
+Dependencies:
+-nothing yet
